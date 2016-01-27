@@ -1,2 +1,3 @@
 Hello World.
 This line is added in branch r/myBranch.
+This line is added in subBranch.
